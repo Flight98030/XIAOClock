@@ -2,16 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "Blinker_Test",
-			"path": "../Blinker_Test"
-		},
-		{
-			"path": "../Clock/MatrixClock-Arduino - 副本"
-		},
-		{
-			"path": "../Clock/MatrixClock-New"
 		}
 	],
 	"settings": {
